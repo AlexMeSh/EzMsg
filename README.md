@@ -34,6 +34,17 @@ The problem is: you've just had to deal with the Armor class' inner structure. Y
 This will take all the messages defined in IArmor and ISpell. You could have multiple components mixing and matching interfaces as needed. Abstract classes aren't as flexible, you can inherit from only one, so their concret classes aren't composable.
 
 > PS.: Talking of references, make sure to learn about Dependency Injection frameworks. I recommend Syring (as a "let-me-try-this" entry drug) and especially Zenject when you wrap your mind around DI/IoC advantages and are ready to get serious on the topic.
+
+## How to install
+
+Unity 2019.3
+1. Open project
+2. Open "Package manager" window
+3. Tap plus button and select "Add package with git url"
+4. Paste "https://github.com/AlexMeSh/EzMsg.git" into textfield 
+5. Tap "Add" button
+6. ...
+7. Profit
 		
 ## Quick Start Guide (aka TL;DR)
 
