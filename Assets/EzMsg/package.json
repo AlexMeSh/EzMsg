@@ -1,0 +1,12 @@
+{
+    "name": "com.custom.perlin_noise",
+    "displayName": "EzMsg for Unity3D",
+    "version": "0.92",
+    "unity": "2018.1",
+    "description": "Decoupled, dynamic and type-safe Messaging System for Unity3D",
+    "keywords": [
+        "messaging",
+        "unity"
+    ],
+    "category": "System"
+}
