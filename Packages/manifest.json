@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.custom.perlin_noise": "https://github.com/AlexMeSh/EzMsg.git",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ide.rider": "1.1.4",
     "com.unity.ide.vscode": "1.1.3",
@@ -38,5 +39,11 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
+  },
+  "lock": {
+    "com.custom.perlin_noise": {
+      "revision": "HEAD",
+      "hash": "ef4b70034c7c576d9de9f4667da3b1ceb0f1c11c"
+    }
   }
 }
